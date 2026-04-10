@@ -1,0 +1,10 @@
+{
+  "name": "restaurant-decision",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal MCP server for direct restaurant decisions.",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
